@@ -24,10 +24,10 @@ The GLUT Functions drown these five objects.</p>
 
 ## Introduction
 <p>
-•	Understanding how the OpenGL library works is essential.
-•	Using the library function, we created this 2D project.
-•	Making items out of fundamental forms.
-•	Understanding the logics that will be used to move the objects in the project
+•	Understanding how the OpenGL library works is essential. <br>
+•	Using the library function, we created this 2D project. <br>
+•	Making items out of fundamental forms. <br>
+•	Understanding the logics that will be used to move the objects in the project. <br>
 </p>
 
 ## Objective
@@ -41,18 +41,18 @@ The GLUT Functions drown these five objects.</p>
 
 ## Library Functions 
 <p>
-•	All OpenGL library functions begin with the letters gl and capitalize words .
-•	example functions:
-•	 glClear , glClearColor , and code :glVertex2f  .
-•	 The OpenGL library provides a powerful but primitive set of rendering commands. Higher level libraries provide additional functionality.
+•	All OpenGL library functions begin with the letters gl and capitalize words . <br>
+•	example functions:<br>
+•	 glClear , glClearColor , and code :glVertex2f  .<br>
+•	 The OpenGL library provides a powerful but primitive set of rendering commands. Higher level libraries provide additional functionality.<br>
 </p>
 
 ## Software Requirements
 <p>
-•	Programming Language : C++
-•	OS : Windows
-•	Graphics Library : GL/glut.h
-•	OpenGL
+•	Programming Language : C++ <br>
+•	OS : Windows <br>
+•	Graphics Library : GL/glut.h <br>
+•	OpenGL <br>
 </p>
   
   
