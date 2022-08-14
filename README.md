@@ -39,7 +39,7 @@ User interactivity is given by allowing the user to move the car faster and chan
 The user can use the alphabetical keys to stop and start the boat, as well as to control the sun up and down mechanism. 
 The GLUT Functions drown these five objects.</p>
 
-## Library Functions 
+## Library Function 
 <p>
 •	All OpenGL library functions begin with the letters gl and capitalize words . <br>
 •	example functions:<br>
@@ -47,7 +47,7 @@ The GLUT Functions drown these five objects.</p>
 •	 The OpenGL library provides a powerful but primitive set of rendering commands. Higher level libraries provide additional functionality.<br>
 </p>
 
-## Software Requirements
+## Software Requirement
 <p>
 •	Programming Language : C++ <br>
 •	OS : Windows <br>
