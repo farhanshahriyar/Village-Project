@@ -22,7 +22,7 @@ User interactivity is given by allowing the user to move the car faster and chan
 The user can use the alphabetical keys to stop and start the boat, as well as to control the sun up and down mechanism. 
 The GLUT Functions drown these five objects.</p>
 
-## Introduction
+## Objective
 <p>
 •	Understanding how the OpenGL library works is essential. <br>
 •	Using the library function, we created this 2D project. <br>
